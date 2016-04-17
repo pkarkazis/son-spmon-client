@@ -1,0 +1,159 @@
+2016-04-17 16:50:19,915 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:19,920 INFO Response Code: 202
+2016-04-17 16:50:24,926 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:24,931 INFO Response Code: 202
+2016-04-17 16:50:24,931 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:24,935 INFO Response Code: 202
+2016-04-17 16:50:29,941 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:29,947 INFO Response Code: 202
+2016-04-17 16:50:29,947 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:29,951 INFO Response Code: 202
+2016-04-17 16:50:34,956 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:34,962 INFO Response Code: 202
+2016-04-17 16:50:34,962 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:34,966 INFO Response Code: 202
+2016-04-17 16:50:39,969 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:39,975 INFO Response Code: 202
+2016-04-17 16:50:39,976 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:39,979 INFO Response Code: 202
+2016-04-17 16:50:44,981 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:44,987 INFO Response Code: 202
+2016-04-17 16:50:44,987 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:44,991 INFO Response Code: 202
+2016-04-17 16:50:49,996 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:50,003 INFO Response Code: 202
+2016-04-17 16:50:50,003 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:50,007 INFO Response Code: 202
+2016-04-17 16:50:55,013 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:55,019 INFO Response Code: 202
+2016-04-17 16:50:55,019 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:50:55,023 INFO Response Code: 202
+2016-04-17 16:51:00,028 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:00,033 INFO Response Code: 202
+2016-04-17 16:51:00,034 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:00,037 INFO Response Code: 202
+2016-04-17 16:51:05,043 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:05,048 INFO Response Code: 202
+2016-04-17 16:51:05,048 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:05,053 INFO Response Code: 202
+2016-04-17 16:51:10,058 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:10,064 INFO Response Code: 202
+2016-04-17 16:51:10,064 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:10,068 INFO Response Code: 202
+2016-04-17 16:51:15,073 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:15,079 INFO Response Code: 202
+2016-04-17 16:51:15,080 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:15,083 INFO Response Code: 202
+2016-04-17 16:51:20,085 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:20,091 INFO Response Code: 202
+2016-04-17 16:51:20,091 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:20,095 INFO Response Code: 202
+2016-04-17 16:51:25,101 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:25,108 INFO Response Code: 202
+2016-04-17 16:51:25,108 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:25,113 INFO Response Code: 202
+2016-04-17 16:51:30,117 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:30,122 INFO Response Code: 202
+2016-04-17 16:51:30,122 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:30,126 INFO Response Code: 202
+2016-04-17 16:51:35,129 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:35,135 INFO Response Code: 202
+2016-04-17 16:51:35,135 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:35,139 INFO Response Code: 202
+2016-04-17 16:51:40,144 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:40,150 INFO Response Code: 202
+2016-04-17 16:51:40,150 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:40,154 INFO Response Code: 202
+2016-04-17 16:51:45,157 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:45,163 INFO Response Code: 202
+2016-04-17 16:51:45,163 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:45,167 INFO Response Code: 202
+2016-04-17 16:51:50,169 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:50,173 INFO Response Code: 202
+2016-04-17 16:51:50,174 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:50,177 INFO Response Code: 202
+2016-04-17 16:51:55,183 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:55,188 INFO Response Code: 202
+2016-04-17 16:51:55,189 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:51:55,193 INFO Response Code: 202
+2016-04-17 16:52:00,198 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:00,206 INFO Response Code: 202
+2016-04-17 16:52:00,207 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:00,211 INFO Response Code: 202
+2016-04-17 16:52:05,216 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:05,222 INFO Response Code: 202
+2016-04-17 16:52:05,222 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:05,226 INFO Response Code: 202
+2016-04-17 16:52:10,232 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:10,237 INFO Response Code: 202
+2016-04-17 16:52:10,237 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:10,241 INFO Response Code: 202
+2016-04-17 16:52:15,246 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:15,262 INFO Response Code: 202
+2016-04-17 16:52:15,263 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:15,266 INFO Response Code: 202
+2016-04-17 16:52:20,270 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:20,274 INFO Response Code: 202
+2016-04-17 16:52:20,274 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:20,278 INFO Response Code: 202
+2016-04-17 16:52:25,281 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:25,287 INFO Response Code: 202
+2016-04-17 16:52:25,287 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:25,291 INFO Response Code: 202
+2016-04-17 16:52:30,296 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/containers/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:30,301 INFO Response Code: 202
+2016-04-17 16:52:30,301 INFO Post on: 
+http://192.168.1.50:8086/metrics/job/vm/instance/c4ef3f60-3d9a-4c8a-95ee-a665bf2cf483
+2016-04-17 16:52:30,304 INFO Response Code: 202
